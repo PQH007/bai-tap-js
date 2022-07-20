@@ -1,0 +1,13 @@
+input{
+    margin: 20px;
+    float: left;
+    cursor: pointer;
+}
+#div1{
+    background-color: #ff9;
+}
+.wrap{
+    border: 1px solid red;
+    width: 10px;
+    height: 20px;
+}

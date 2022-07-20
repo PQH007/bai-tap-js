@@ -1,0 +1,28 @@
+.changeImg{ 
+    text-align: center;
+    border: 1px solid black;
+    cursor: pointer;
+
+}
+.changeWith{
+    text-align: center;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.w1{
+    float: right;
+    height: 50%;
+    width: 50%;
+}
+.w2{
+    float: right;
+    height: 70%;
+    width: 70%;
+}
+
+.w3{
+    float: right;
+    height: 100%;
+    width: 100%;
+}
