@@ -1,0 +1,11 @@
+#MyDraggable{
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+}
+#pr_Draggable{
+    width:600px;
+    height:500px;
+    border:1px solid black;
+    overflow:scroll;
+}
